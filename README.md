@@ -1,5 +1,5 @@
 # Mission-Demolition
-##By: Cayden Gower & Braden Barber
+## By: Cayden Gower & Braden Barber
 
 Mission Demolition is a game similar to the Angry Birds mobile game.
 Chapter 29 of our Intro to Game Design book by Jeremy Gibson Bond walks us through creating this game.
